@@ -45,7 +45,8 @@ class myAppstate extends State<myApp> {
           {'text': 'singh', 'score': 1},
           {'text': 'saini', 'score': 2},
           {'text': 'kumar', 'score': 3},
-          {'text': 'thakur', 'score': 4}
+          {'text': 'thakur', 'score': 4},
+          {'text': 'Prakash', 'score': 5}
         ],
       },
     ];
